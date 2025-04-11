@@ -38,7 +38,13 @@
 # print(x << 4)
 
 
-print(int(5^11))
+# print(int(5^11))
 
 
+# a = 20
+# b = 5
+# print("a & b =", a & b)
+
+
+print(22 << 1)
 
