@@ -29,3 +29,16 @@
 
 
 #BITWISE OPERATORS
+# a = 20
+# b = 5
+# print("a | b =", a | b)
+
+
+# x=2
+# print(x << 4)
+
+
+print(int(5^11))
+
+
+
